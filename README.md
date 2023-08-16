@@ -38,6 +38,7 @@ Mostre na tela a média ponderada final de Pedrito;
 Através de um sistema de "if" e "else", mostrar se Pedrito passou ou não
 ​
 04- SÓ NA GEOMETRIA 
+
 João nunca se deu bem com geometria: ele tinha dificuldades para calcular a área de quadrados, triângulos, etc; basicamente todas as formas geométricas.
 Sendo assim, crie um programa que ajude João a entender e resolver alguns problemas de geometria. 
 
