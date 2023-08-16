@@ -37,4 +37,38 @@ Calcule a média ponderada da sua nota
 Mostre na tela a média ponderada final de Pedrito;
 Através de um sistema de "if" e "else", mostrar se Pedrito passou ou não
 ​
+04- SÓ NA GEOMETRIA 
+João nunca se deu bem com geometria: ele tinha dificuldades para calcular a área de quadrados, triângulos, etc; basicamente todas as formas geométricas.
+Sendo assim, crie um programa que ajude João a entender e resolver alguns problemas de geometria. 
 
+Enunciado:
+Atribua o valor 3 a uma variável x 
+Atribua o valor 5 a outra variável y
+Printe a área de quadrado de lado x
+Printe o perímetro de um triângulo de base x e lados y 
+Printe a área de um círculo de raio x (π = 3)
+Printe a área de um trapézio com B=x, b=y e altura = 4
+
+05- LOUZADA VELOZ E FURIOSO
+
+Certo dia, nosso querido professor Rafael Louzada resolveu assistir a um filme. Após muitas horas de DR com a sua esposa para escolher o filme ideal, eles resolveram ver “Velozes e Furiosos”. Após o filme, e inspirado pelas manobras do Toretto, Louzada resolveu ir às ruas para fazer manobras em alta velocidade (logicamente, com todo o devido equipamento e em uma pista deserta de corrida. Ao chegar no local, Louzada começou a fazer altos cavalinhos de pau e acelerar em altíssimas velocidades com seu fusca que ele havia turbinado e pintado todo preto fosco. Mas nosso querido professor não contava com um problema: a Polícia Rodoviária havia deixado um pardal instalado no local. Segundo a lei, Louzada teria que pagar R$0.9 por cada km/h acima do limite de velocidade de 70 km/h.
+
+Sendo assim, seu programa precisa conter os seguintes elementos:
+Armazene o valor a velocidade do Louzada (usar velocidade de 85 km/h)​
+Armazene o limite de velocidade
+Faça o cálculo para ver quanto Louzada passou do limite
+Calcule a multa
+Printe "O professor estava acima do limite! Iremos emitir uma multa!"
+Printe "Velocidade acima do limite: " (com o valor da velocidade ao lado - use o print formatado)
+Printe "Multa aplicada: R$" (com o valor da multa ao lado - use o print formatado)
+
+06- DIFICULDADES COM PITÁGORAS
+
+Se tem uma coisa que Miguel não suporta é trigonometria. Além de ter inúmeras dificuldades para desenhar triângulos, ele também tem dificuldades em memorizar o Teorema de Pitágoras. Louzada já tentou todas as maneiras que existem para ajudar Miguel a entender a matéria, mas nada funciona. Como uma última tentativa de fazer com que Miguel entenda trigonometria, Louzada convocou você para ensinar Miguel estes conceitos através da programação em Python. 
+
+Sendo assim, faça um programa que realize as seguintes funções:
+mostre na tela o teorema de Pitágoras 
+calcule o valor da hipotenusa baseado em um triângulo formado pelos seguintes valores
+cateto adjacente = 9 cm ​
+cateto oposto = 12 cm
+mostre na tela o valor da hipotenusa
